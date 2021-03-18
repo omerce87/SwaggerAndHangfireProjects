@@ -18,8 +18,7 @@ namespace SwaggerAndHangfireAPI.Controllers
         [HttpGet]
         public string Get()
         {
-            string result = "get action";
-            return result;
+            return "get action";
         }
 
         /// <summary>
@@ -29,8 +28,7 @@ namespace SwaggerAndHangfireAPI.Controllers
         [HttpPut]
         public string Update()
         {
-            string result = "update action";
-            return result;
+            return "update action";
         }
 
         /// <summary>
@@ -40,8 +38,7 @@ namespace SwaggerAndHangfireAPI.Controllers
         [HttpDelete]
         public string Remove()
         {
-            string result = "remove action";
-            return result;
+            return "remove action";
         }
     }
 }

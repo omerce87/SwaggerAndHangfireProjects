@@ -51,7 +51,7 @@ namespace SwaggerAndHangfireAPI
                     {
                         Name = "Ömer SAÐLAM",
                         Email = string.Empty,
-                        Url = new Uri("http://www.omersaglam.com"),
+                        Url = new Uri("http://example.com"),
                     },
                     License = new OpenApiLicense
                     {
